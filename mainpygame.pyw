@@ -106,7 +106,7 @@ enemyx = 400
 enemyy = 200
 enemyx_change = 0
 enemyy_change = 0
-es = "died"
+es = "living"
 
 stamina = 200
 health = 100
